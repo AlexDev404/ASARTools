@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/timedotcc/asar-package-obfuscator#readme",
   "dependencies": {
-    "asar": "^2.0.1",
+    "asar": "^3.2.0",
     "javascript-obfuscator": "^4.1.0",
     "recursive-readdir": "^2.2.3",
     "rimraf": "^3.0.0",
